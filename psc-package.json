@@ -1,5 +1,5 @@
 {
-    "name": "Main",
+    "name": "native-read-file-experiment",
     "set": "master",
     "source": "https://github.com/pure11/package-sets.git",
     "depends": [
